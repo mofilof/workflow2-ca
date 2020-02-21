@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "mappings": "AAAA,YAAY;ACAZ,mBAAmB;AGAnB,AAEI,MAFE,CAEF,QAAQ,CAAA;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,CAAC;CACZ;;ACLL,YAAY;AJAZ,mBAAmB;AGAnB,AAEI,MAFE,CAEF,QAAQ,CAAA;EACJ,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,CAAC;CACZ;;AMHL,UAAU;EACN,WAAW,EAAE,QAAQ;EACrB,GAAG,EAAE,8DAA8D;;;ALGvE,AAAA,MAAM,CAAA;EACF,gBAAgB,EJFF,OAAO;EIGrB,KAAK,EJLQ,OAAO;CIMvB;;AKRD,UAAU;EACN,WAAW,EAAE,QAAQ;EACrB,GAAG,EAAE,8DAA8D;;;AVQvE,UAAU;EACN,WAAW,EAAE,QAAQ;EACrB,GAAG,EAAE,8DAA8D;;;AAGvE,AAAA,EAAE,CAAA;EACE,WAAW,EAAE,QAAQ;EACrB,SAAS,EAAE,IAAI;EACf,KAAK,ECfM,OAAO;CDgBrB",
+    "sources": [
+        "style.scss",
+        "--partials/_variables.scss",
+        "--partials/_blocktags.scss",
+        "--partials/_mixins.scss",
+        "--partials/_header.scss",
+        "--partials/_footer.scss",
+        "--partials/_variables.scss",
+        "--partials/_blocktags.scss",
+        "--partials/_mixins.scss",
+        "--partials/_header.scss",
+        "--partials/_packages.scss",
+        "--partials/_packages.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}

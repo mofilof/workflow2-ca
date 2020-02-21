@@ -1,0 +1,32 @@
+/*Partials*/
+@import '--partials/variables';
+@import '--partials/blocktags';
+@import '--partials/header';
+@import '--partials/footer';
+@import '--partials/packages';
+
+/*Color variables*/
+$black-color: #000000;
+$white-color: #ffffff;
+$blue-color: #3c54a0;
+$offwhite-color: #fdf6ec;
+$orange-color: #ff9000;
+$lightblue-color: #b8c1e1;
+
+html body{
+    font-family: 'openSans';
+}
+
+button {
+    color: $offwhite-color;
+    font-family: 'openSans';
+    margin: 0;
+    padding: 0;
+    background-color: $orange-color;
+}
+
+h1{
+    font-family: 'openSans';
+    font-size: 36px;
+}
+

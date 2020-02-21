@@ -1,0 +1,28 @@
+
+.packages{
+    background-color: $offwhite-color;
+    border: 2px solid $orange-color;
+    
+    p{
+        color: $black-color;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 0.8em;
+    }
+    h2{
+        color: $black-color;
+        font-family: 'openSans';
+        font-size: 2em;
+    }
+ 
+}
+
+button .btn .packages--button{
+    background-color: $orange-color;
+    color: $offwhite-color;
+
+    button:hover{
+        background-color: $offwhite-color;
+        border: 1px solid $orange-color;
+    }
+
+}
